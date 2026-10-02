@@ -2,7 +2,7 @@
 
 > A low-cost wearable glove that converts hand gestures into text and voice, built for the **Innotech Hackathon**, KIET Group of Institutions, Ghaziabad.
 
-**Team:** [Team Name]
+**Team:** Voice_of_Hands
 
 ---
 
